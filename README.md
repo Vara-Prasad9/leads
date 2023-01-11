@@ -6,4 +6,4 @@ Please Note: This is only works on local machine, as we are deploying extension 
 2) Open Chrome extensions < Manage Extensions
 3) Select Load Unpacked , Now select the folder you cloned earlier <br>
 Thats Simple it is <br>
-Congractulations You Deployed Your Extension 🎉
+Congratulations You Deployed Your Extension 🎉
